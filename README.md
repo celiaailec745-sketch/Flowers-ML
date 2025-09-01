@@ -7,7 +7,7 @@ We implemented a **Logistic Regression classifier** with OpenCV to distinguish b
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 - Dataset: **Iris dataset** (from `scikit-learn`)
 - Features:  
   - Sepal length  
@@ -20,7 +20,7 @@ We implemented a **Logistic Regression classifier** with OpenCV to distinguish b
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python 3
 - NumPy
 - OpenCV (`cv2.ml`)
@@ -29,7 +29,7 @@ We implemented a **Logistic Regression classifier** with OpenCV to distinguish b
 
 ---
 
-## 📊 Results
+##  Results
 - The model is trained using **Mini-Batch Gradient Descent**.
 - Achieved a good accuracy on the training and test sets.
 - Example prediction:
