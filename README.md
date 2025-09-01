@@ -36,3 +36,9 @@ We implemented a **Logistic Regression classifier** with OpenCV to distinguish b
   ```text
   Input: [5.1, 3.5, 0.4, 0.2]
   Predicted class: Setosa
+
+## Future Improvements
+
+Extend the model to multi-class classification (Setosa, Versicolor, Virginica).
+
+Compare Logistic Regression with other ML models (SVM, Random Forest, Neural Networks).
