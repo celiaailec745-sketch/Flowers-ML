@@ -42,3 +42,9 @@ We implemented a **Logistic Regression classifier** with OpenCV to distinguish b
 Extend the model to multi-class classification (Setosa, Versicolor, Virginica).
 
 Compare Logistic Regression with other ML models (SVM, Random Forest, Neural Networks).
+
+## References
+
+Iris Dataset - scikit-learn
+
+OpenCV Logistic Regression Documentation
