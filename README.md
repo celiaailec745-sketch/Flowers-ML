@@ -37,6 +37,23 @@ We implemented a **Logistic Regression classifier** with OpenCV to distinguish b
   Input: [5.1, 3.5, 0.4, 0.2]
   Predicted class: Setosa
 
+
+##  How to Run
+
+Clone this repository:
+
+```bash
+git clone https://github.com/celiaailec745-sketch/Flowers-ML.git
+cd Flowers-ML
+
+## Install dependencies:
+pip install numpy opencv-python scikit-learn matplotlib
+
+## Run the notebook
+jupyter notebook Flowers-ML.ipynb
+
+
+
 ## Future Improvements
 
 Extend the model to multi-class classification (Setosa, Versicolor, Virginica).
