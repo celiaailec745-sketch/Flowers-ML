@@ -39,16 +39,15 @@ We implemented a **Logistic Regression classifier** with OpenCV to distinguish b
 
 ##  How to Run
 
-Clone this repository:
-
+- Clone this repository:
 ```bash
 git clone https://github.com/celiaailec745-sketch/Flowers-ML.git
 cd Flowers-ML
 
-Install dependencies:
+- Install dependencies:
 pip install numpy opencv-python scikit-learn matplotlib
 
-Run the notebook
+- Run the notebook
 jupyter notebook Flowers-ML.ipynb
 ```
 
@@ -56,12 +55,12 @@ jupyter notebook Flowers-ML.ipynb
 
 ##  Future Improvements
 
-Extend the model to multi-class classification (Setosa, Versicolor, Virginica).
+- Extend the model to multi-class classification (Setosa, Versicolor, Virginica).
 
-Compare Logistic Regression with other ML models (SVM, Random Forest, Neural Networks).
+- Compare Logistic Regression with other ML models (SVM, Random Forest, Neural Networks).
 
 ## References
 
-Iris Dataset - scikit-learn
+- Iris Dataset - scikit-learn
 
-OpenCV Logistic Regression Documentation
+- OpenCV Logistic Regression Documentation
